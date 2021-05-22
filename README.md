@@ -1,0 +1,2 @@
+# projeto-SQL
+praticando MYSQL
